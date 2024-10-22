@@ -73,7 +73,7 @@ salário atual:
 
 salario = int (input("Informe o valor em R$: "))
 
-if 0 <= salario <= 280:
+if salario <= 0 and salario <= 280:
     aumento1 = salario * 1.2
     valorReajuste1 = aumento1-salario
     print("")
