@@ -126,10 +126,17 @@ ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do
 de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso.
 Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os
 dados do programa com as mensagens adequadas.
-'''
 
 
-'''
+pesoPeixes = float(input("Digite o peso: "))
+
+excesso = pesoPeixes - 50
+print(excesso)
+multa = excesso * 4
+print(multa)
+
+print("O total a pagar é: ",multa)
+
 • Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu
 salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um
 programa que nos dê:
@@ -139,3 +146,4 @@ programa que nos dê:
 • o salário líquido.
 • calcule os descontos e o salário líquido, conforme a tabela à direita.
 '''
+
