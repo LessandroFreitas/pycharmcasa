@@ -1,3 +1,0 @@
-manifestacao = []
-
-quantidademanifestacao = len(manifestacao)
