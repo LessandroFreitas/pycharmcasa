@@ -1,0 +1,3 @@
+manifestacao = []
+
+quantidademanifestacao = len(manifestacao)
