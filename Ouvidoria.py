@@ -21,8 +21,8 @@ while opcao != 6:
         print("Nova Manifestacão criada com sucesso!")
 
     elif opcao == 3:
-        quantidademanifestacao = len(manifestacao)
-        print("No momento contem: ", quantidademanifestacao)
+        quantidadeManifestacao = len(manifestacao)
+        print("No momento contem: ", quantidadeManifestacao)
 
     elif opcao == 4:
         posicaoBuscar = int(input("Digite uma posição: "))
@@ -30,7 +30,7 @@ while opcao != 6:
            elemnetoBuscado = manifestacao [posicaoBuscar - 1]
            print("A Manifestação é: ",elemnetoBuscado)
         else:
-            print("Posição invalida!")
+            print("Manifestação inexistente!")
 
     elif opcao == 5:
         if len(manifestacao) > 0:
