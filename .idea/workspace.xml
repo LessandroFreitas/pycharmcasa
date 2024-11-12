@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bc2751-e28b-4289-9ad7-1baf4ebd2fd2" name="Changes" comment="7commitCasa">
-      <change afterPath="$PROJECT_DIR$/OuvidoriaFinalOK.py" afterDir="false" />
+    <list default="true" id="69bc2751-e28b-4289-9ad7-1baf4ebd2fd2" name="Changes" comment="8commitCasa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ouvidoria.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ouvidoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05passo.py" beforeDir="false" afterPath="$PROJECT_DIR$/05passo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +225,20 @@
       <workItem from="1729708669361" duration="7741000" />
       <workItem from="1729792381727" duration="6597000" />
       <workItem from="1729799064618" duration="5073000" />
-      <workItem from="1729881971524" duration="3354000" />
+      <workItem from="1729881971524" duration="4655000" />
+      <workItem from="1729986541692" duration="140000" />
+      <workItem from="1730301460135" duration="107000" />
+      <workItem from="1730309727756" duration="16000" />
+      <workItem from="1730314090207" duration="2530000" />
+      <workItem from="1730334202082" duration="78000" />
+      <workItem from="1730334352798" duration="602000" />
+      <workItem from="1730752340152" duration="3000" />
+      <workItem from="1730767700024" duration="8000" />
+      <workItem from="1730932426032" duration="27000" />
+      <workItem from="1731351366624" duration="9000" />
+      <workItem from="1731397604351" duration="57000" />
+      <workItem from="1731438906355" duration="18000" />
+      <workItem from="1731439572962" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="2commitCasa">
       <option name="closed" value="true" />
@@ -284,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729803900018</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8commitCasa">
+      <option name="closed" value="true" />
+      <created>1729888257755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729888257755</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +328,8 @@
     <MESSAGE value="5commitCasa" />
     <MESSAGE value="6commitCasa" />
     <MESSAGE value="7commitCasa" />
-    <option name="LAST_COMMIT_MESSAGE" value="7commitCasa" />
+    <MESSAGE value="8commitCasa" />
+    <option name="LAST_COMMIT_MESSAGE" value="8commitCasa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/02pythonProject$Ouvidoria0.coverage" NAME="Ouvidoria0 Coverage Results" MODIFIED="1729803757143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
